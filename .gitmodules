@@ -1,0 +1,9 @@
+[submodule "Get_Next_line-42"]
+	path = Get_Next_line-42
+	url = git@github.com:miguelfdez03/Get_Next_line-42.git
+[submodule "Libft-42"]
+	path = Libft-42
+	url = git@github.com:miguelfdez03/Libft-42.git
+[submodule "Printf-42"]
+	path = Printf-42
+	url = git@github.com:miguelfdez03/Printf-42.git
