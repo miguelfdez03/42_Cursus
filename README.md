@@ -10,17 +10,17 @@ Este repositorio reúne todos los proyectos que he realizado como parte del curs
 ### Libft
 Libft es una biblioteca personalizada creada desde cero en el lenguaje C como parte del plan de estudios de la escuela 42. Su objetivo principal es desarrollar habilidades en programación de bajo nivel y manipulación de memoria.
 
-[Ver README completo](https://github.com/miguelfdez03/42_Cursus/blob/main/README_libft.md)
+[Ver README completo](https://github.com/miguelfdez03/Libft-42/blob/8be031799ac4d1588f3d8feb3410c93e32be9d53/README.md)
 
 ### Get Next Line
 Get Next Line (GNL) es una función que lee una línea de texto desde un descriptor de archivo. La función devuelve la línea que se acaba de leer, o NULL si se ha alcanzado el final del archivo o si ocurrió un error.
 
-[Ver README completo](https://github.com/miguelfdez03/42_Cursus/blob/main/README_gnl.md)
+[Ver README completo](https://github.com/miguelfdez03/Get_Next_line-42/blob/127c65da926efa02bd12b054856a94c831ed28f4/README.md)
 
 ### Printf
 Este proyecto es una implementación personalizada de la función `printf` en C. La función `printf` se utiliza para imprimir datos en la salida estándar con un formato específico.
 
-[Ver README completo](https://github.com/miguelfdez03/42_Cursus/blob/main/README_printf.md)
+[Ver README completo](https://github.com/miguelfdez03/Printf-42/blob/3efed0e81831a54983e85ff091891eeaca62b6b5/README.md)
 
 ## 🚀 Uso General
 Para utilizar los proyectos individuales, por favor sigue las instrucciones específicas en el README de cada submódulo.
