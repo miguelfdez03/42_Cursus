@@ -7,3 +7,6 @@
 [submodule "Printf-42"]
 	path = Printf-42
 	url = git@github.com:miguelfdez03/Printf-42.git
+[submodule "pipex-42"]
+	path = pipex-42
+	url = git@github.com:miguelfdez03/pipex-42.git
