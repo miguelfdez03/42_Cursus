@@ -22,6 +22,11 @@ Este proyecto es una implementación personalizada de la función `printf` en C.
 
 [Ver README completo](https://github.com/miguelfdez03/Printf-42/blob/3efed0e81831a54983e85ff091891eeaca62b6b5/README.md)
 
+### Pipex
+Este proyecto es una implementación personalizada que recrea el comportamiento de los pipes en shell. Simula el funcionamiento del operador | y los redireccionamientos < y >, permitiendo la ejecución de comandos en cadena.
+
+[Ver README completo](https://github.com/miguelfdez03/pipex-42/blob/main/README.md)
+
 ## 🚀 Uso General
 Para utilizar los proyectos individuales, por favor sigue las instrucciones específicas en el README de cada submódulo.
 
