@@ -13,3 +13,6 @@
 [submodule "So_long"]
 	path = So_long
 	url = git@github.com:miguelfdez03/So_long.git
+[submodule "ExamRank02"]
+	path = ExamRank02
+	url = git@github.com:miguelfdez03/ExamRank02.git
