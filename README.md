@@ -27,6 +27,11 @@ Este proyecto es una implementación personalizada que recrea el comportamiento 
 
 [Ver README completo](https://github.com/miguelfdez03/pipex-42/blob/main/README.md)
 
+### So_long
+So_long es un pequeño juego 2D donde el jugador debe recolectar todos los coleccionables y llegar a la salida. El juego está desarrollado en C utilizando la librería MLX42 para gráficos.
+
+[Ver README completo](https://github.com/miguelfdez03/So_long/blob/main/README.md)
+
 ## 🚀 Uso General
 Para utilizar los proyectos individuales, por favor sigue las instrucciones específicas en el README de cada submódulo.
 
