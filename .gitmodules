@@ -16,3 +16,6 @@
 [submodule "ExamRank02"]
 	path = ExamRank02
 	url = git@github.com:miguelfdez03/ExamRank02.git
+[submodule "Push_swap-42"]
+	path = Push_swap-42
+	url = git@github.com:miguelfdez03/Push_swap-42.git
