@@ -32,6 +32,11 @@ So_long es un pequeño juego 2D donde el jugador debe recolectar todos los colec
 
 [Ver README completo](https://github.com/miguelfdez03/So_long/blob/main/README.md)
 
+### Push_Swap
+Push_swap es un proyecto de la escuela 42 que desafía a los estudiantes a crear un algoritmo eficiente que ordene una pila de números enteros utilizando un conjunto limitado de operaciones entre dos pilas (A y B). El objetivo es producir una pila ordenada con el mínimo número de operaciones posible.
+
+[Ver README completo](https://github.com/miguelfdez03/Push_swap-42/blob/main/README.md)
+
 ### ExamRank02
 Este repositorio recopila soluciones y enfoques para los ejercicios del Exam Rank 02 de la escuela 42. La mayoría de las soluciones provienen del grademe y están pensadas para que los nuevos estudiantes puedan estudiar, comparar y aprender distintas maneras de resolver los ejercicios del examen. Ideal para repasar, entender mejor los conceptos y prepararte de forma práctica para el ExamRank02.
 
