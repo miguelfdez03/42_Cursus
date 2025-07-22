@@ -19,3 +19,9 @@
 [submodule "Push_swap-42"]
 	path = Push_swap-42
 	url = git@github.com:miguelfdez03/Push_swap-42.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:miguelfdez03/Philosophers.git
+[submodule "ExamRank03"]
+	path = ExamRank03
+	url = git@github.com:miguelfdez03/ExamRank03.git
