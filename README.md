@@ -42,6 +42,16 @@ Este repositorio recopila soluciones y enfoques para los ejercicios del Exam Ran
 
 [Ver README completo](https://github.com/miguelfdez03/ExamRank02/blob/main/README.md)
 
+### Philosophers 
+El proyecto Philosophers simula el clásico problema de la cena de los filósofos. Varios filósofos se sientan alrededor de una mesa circular, alternando entre tres estados: pensar, comer y dormir. Para comer, cada filósofo necesita dos tenedores (uno a su izquierda y otro a su derecha).
+
+[Ver README completo](https://github.com/miguelfdez03/Philosophers/blob/main/README.md)
+
+### ExamRank03
+Este repositorio recopila las dos variantes de ejercicios que suelen aparecer en el Exam Rank 03. Son versiones simples pero efectivas, fruto de mi experiencia y búsqueda de soluciones claras. Espero que te sirvan de ayuda para estudiar y entender la dinámica del examen.
+
+[Ver README completo](https://github.com/miguelfdez03/ExamRank03/blob/main/README.md)
+
 ## 🚀 Uso General
 Para utilizar los proyectos individuales, por favor sigue las instrucciones específicas en el README de cada submódulo.
 
